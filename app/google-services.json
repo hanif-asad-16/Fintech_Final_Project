@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931324795476",
+    "project_id": "urunan-b0986",
+    "storage_bucket": "urunan-b0986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931324795476:android:1c40138609e5e585286bc1",
+        "android_client_info": {
+          "package_name": "com.myapps.urunan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931324795476-5fpjd0qotqbslr4pgpdkefbsta3pqnha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5pTumaeQHWn9lIGv4UClVO_CDnLNbjLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931324795476-5fpjd0qotqbslr4pgpdkefbsta3pqnha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
